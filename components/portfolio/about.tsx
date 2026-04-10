@@ -32,16 +32,19 @@ export function About() {
               className="md:col-span-2 space-y-4"
             >
               <p className="text-muted-foreground text-lg leading-relaxed">
-                Sou um engenheiro de software apaixonado por criar soluções que unem 
-                <span className="text-foreground font-medium"> tecnologia de ponta</span> e 
-                <span className="text-foreground font-medium"> inteligência artificial</span>. 
-                Com mais de 5 anos de experiência, especializo-me em desenvolver aplicações 
-                escaláveis e interfaces modernas.
+                Engenheiro de software focado no desenvolvimento de aplicações escaláveis e de alta performance. 
+                Crio soluções que integram 
+                <span className="text-foreground font-medium"> inteligência artificial</span> e 
+                <span className="text-foreground font-medium"> interfaces modernas</span>, 
+                com foco em eficiência, usabilidade e impacto real no negócio.
               </p>
               <p className="text-muted-foreground text-lg leading-relaxed">
-                Atualmente, foco em projetos que utilizam <span className="text-primary">Large Language Models</span>, 
-                <span className="text-primary"> Computer Vision</span> e <span className="text-primary">MLOps</span>, 
-                sempre buscando transformar ideias complexas em produtos elegantes e funcionais.
+                Atualmente, foco no desenvolvimento de soluções com 
+                <span className="text-primary"> Large Language Models</span> e 
+                <span className="text-primary"> Agentes Inteligentes</span>, 
+                aplicando padrões consolidados como 
+                <span className="text-primary"> Clean Architecture </span> 
+                para construir sistemas robustos, escaláveis e de fácil manutenção.
               </p>
             </motion.div>
 

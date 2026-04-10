@@ -43,7 +43,7 @@ export function Header() {
           whileHover={{ scale: 1.05 }}
         >
           <span className="text-primary">&lt;</span>
-          LS
+          TL
           <span className="text-primary">/&gt;</span>
         </motion.a>
 
