@@ -15,7 +15,7 @@ export function Footer() {
           className="flex flex-col md:flex-row items-center justify-between gap-4"
         >
           <p className="text-sm text-muted-foreground">
-            &copy; {currentYear} Lucas Silva. Todos os direitos reservados.
+            &copy; {currentYear} Thiago Lopes. Todos os direitos reservados.
           </p>
           <p className="text-sm text-muted-foreground">
             Desenvolvido com{" "}

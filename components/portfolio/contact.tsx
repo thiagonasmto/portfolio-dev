@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 import { useInView } from "framer-motion"
 import { useRef } from "react"
 import { Button } from "@/components/ui/button"
-import { Mail, ArrowUpRight, Github, Linkedin, Twitter } from "lucide-react"
+import { Mail, ArrowUpRight, Github, Linkedin, Twitter, Instagram } from "lucide-react"
 
 export function Contact() {
   const ref = useRef(null)
@@ -36,14 +36,14 @@ export function Contact() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12"
           >
             <Button asChild size="lg" className="w-full sm:w-auto">
-              <a href="mailto:contato@lucassilva.dev">
+              <a href="mailto:thiagonasmento25@gmail.com">
                 <Mail className="mr-2 h-4 w-4" />
                 Enviar email
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="w-full sm:w-auto">
               <a
-                href="/cv.pdf"
+                href="/CurriculoDev-Thiago-Lopes.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -60,9 +60,9 @@ export function Contact() {
             className="flex items-center justify-center gap-6"
           >
             {[
-              { icon: Github, href: "https://github.com", label: "GitHub" },
-              { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-              { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
+              { icon: Github, href: "https://github.com/thiagonasmto", label: "GitHub" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/thiago-lopes-eng-comp/", label: "LinkedIn" },
+              { icon: Instagram, href: "https://www.instagram.com/thiago.nasmto/", label: "Instagram" },
             ].map((social) => (
               <motion.a
                 key={social.label}

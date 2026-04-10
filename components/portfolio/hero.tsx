@@ -12,7 +12,7 @@ export function Hero() {
       
       <div className="container mx-auto px-4 md:px-6 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5 }}
@@ -23,7 +23,7 @@ export function Hero() {
               <span className="relative inline-flex rounded-full h-2 w-2 bg-primary" />
             </span>
             <span className="text-sm text-primary font-medium">Disponível para novos projetos</span>
-          </motion.div>
+          </motion.div> */}
 
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
@@ -31,7 +31,7 @@ export function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 text-balance"
           >
-            Lucas Silva
+            Thiago Lopes
           </motion.h1>
 
           <motion.h2
@@ -79,9 +79,9 @@ export function Hero() {
             className="flex items-center justify-center gap-6"
           >
             {[
-              { icon: Github, href: "https://github.com", label: "GitHub" },
-              { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
-              { icon: Mail, href: "mailto:contato@lucassilva.dev", label: "Email" },
+              { icon: Github, href: "https://github.com/thiagonasmto", label: "GitHub" },
+              { icon: Linkedin, href: "https://www.linkedin.com/in/thiago-lopes-eng-comp/", label: "LinkedIn" },
+              { icon: Mail, href: "mailto:thiagonasmento25@gmail.com", label: "Email" },
             ].map((social) => (
               <motion.a
                 key={social.label}

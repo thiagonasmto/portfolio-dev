@@ -15,11 +15,11 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Lucas Silva | Software Engineer & AI Specialist',
-  description: 'Portfólio de Lucas Silva - Software Engineer especializado em Inteligência Artificial, Machine Learning e desenvolvimento de aplicações modernas.',
+  title: 'Thiago Lopes | Software Engineer & AI Specialist',
+  description: 'Portfólio de Thiago Lopes - Software Engineer especializado em Inteligência Artificial, Machine Learning e desenvolvimento de aplicações modernas.',
   generator: 'v0.app',
   keywords: ['Software Engineer', 'AI', 'Machine Learning', 'React', 'Next.js', 'Python', 'TypeScript'],
-  authors: [{ name: 'Lucas Silva' }],
+  authors: [{ name: 'Thiago Lopes' }],
   icons: {
     icon: [
       {
