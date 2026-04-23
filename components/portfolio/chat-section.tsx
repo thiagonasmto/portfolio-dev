@@ -155,15 +155,15 @@ export function ChatSection() {
               <div className="relative">
                 <div className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-background/70 px-3 py-1 text-sm text-primary mb-5">
                   <Sparkles className="h-4 w-4" />
-                  Assistente com contexto do portfolio
+                  Assistente com contexto do portfólio
                 </div>
 
                 <h3 className="text-3xl font-bold text-foreground mb-4 text-balance">
-                  Uma forma mais direta de apresentar o Thiago
+                  Uma forma mais direta de me apresentar!
                 </h3>
 
                 <p className="text-muted-foreground text-lg leading-relaxed mb-6">
-                  Em vez de navegar por cards, a pessoa pode perguntar o que quiser sobre experiencia,
+                  Em vez de navegar por cards, você pode perguntar o que quiser sobre experiências,
                   stack, interesses, disponibilidade e tipos de projeto.
                 </p>
 
@@ -188,7 +188,7 @@ export function ChatSection() {
                     <MessageSquare className="h-4 w-4" />
                   </div>
                   <p className="text-sm text-muted-foreground leading-relaxed">
-                    As respostas usam uma LLM online com um arquivo de contexto sobre o Thiago.
+                    As respostas usam uma LLM online com um arquivo de contexto sobre mim.
                     Assim, o chat fica pessoal, consistente e facil de atualizar.
                   </p>
                 </div>
@@ -202,9 +202,9 @@ export function ChatSection() {
               className="rounded-3xl border border-border bg-card/95 shadow-sm"
             >
               <div className="border-b border-border px-5 py-4">
-                <p className="text-sm font-mono text-primary">Chat do portfolio</p>
+                <p className="text-sm font-mono text-primary">Chat portfólio</p>
                 <h3 className="text-lg font-semibold text-foreground">
-                  Pergunte qualquer coisa sobre o Thiago
+                  Pergunte qualquer coisa sobre o mim!
                 </h3>
               </div>
 
