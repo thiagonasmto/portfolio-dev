@@ -123,3 +123,41 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer components {
+  .chat-markdown {
+    @apply space-y-3 break-words;
+  }
+
+  .chat-markdown p {
+    @apply whitespace-pre-wrap;
+  }
+
+  .chat-markdown ul {
+    @apply list-disc pl-5 space-y-1;
+  }
+
+  .chat-markdown ol {
+    @apply list-decimal pl-5 space-y-1;
+  }
+
+  .chat-markdown a {
+    @apply text-primary underline underline-offset-4;
+  }
+
+  .chat-markdown code {
+    @apply rounded bg-secondary px-1.5 py-0.5 font-mono text-[0.85em];
+  }
+
+  .chat-markdown pre {
+    @apply overflow-x-auto rounded-xl border border-border bg-secondary/80 p-3;
+  }
+
+  .chat-markdown pre code {
+    @apply bg-transparent p-0;
+  }
+
+  .chat-markdown strong {
+    @apply font-semibold text-foreground;
+  }
+}

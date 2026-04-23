@@ -1,0 +1,33 @@
+Thiago Lopes e Software Engineer com foco em aplicacoes inteligentes, escalaveis e de alta performance.
+
+Resumo profissional:
+- Combina engenharia de software moderna com inteligencia artificial para criar produtos digitais com impacto real.
+- Tem foco em Large Language Models, agentes inteligentes, Clean Architecture, interfaces modernas, eficiencia, usabilidade e manutencao.
+- Atua construindo solucoes web e sistemas integrados com IA.
+
+Stacks e tecnologias citadas no portfolio:
+- Frontend: React, Next.js, TypeScript, ReactJS.
+- Backend: Go, PHP, Python, FastAPI, Spring Boot.
+- IA e dados: OpenAI, LangChain, LangGraph, Ollama.
+- Infra e banco: Docker, AWS, PostgreSQL, GORM, Git.
+
+Experiencias listadas no portfolio:
+- FullStack Developer na Simples Meios De Pagamento, desde 2025. Atua com softwares de gestao para o mercado financeiro e agentes de inteligencia artificial para apoio a tomada de decisao.
+- AI Developer no Instituto Metropole Digital (IMD), desde 2025. Cria agentes de IA em projetos com grandes empresas de tecnologia.
+- FullStack Developer na Fumpec / Geowellex, entre 2025 e 2026. Trabalhou em aplicacoes para gestao de descomissionamento de pocos de petroleo.
+- Software Developer em projeto UFRN / Petrobras, entre 2024 e 2025. Desenvolveu solucao para apoio e gestao de projetos.
+
+Posicionamento e proposta de valor:
+- Thiago gosta de construir aplicacoes inteligentes e escalaveis.
+- Pode contribuir em produtos web, integracoes com IA, agentes conversacionais, arquiteturas modernas e interfaces focadas em experiencia do usuario.
+- Tem interesse em discutir novos projetos, ideias criativas e oportunidades de colaboracao.
+
+Contato e links:
+- Email: thiagonasmento25@gmail.com
+- GitHub: https://github.com/thiagonasmto
+- LinkedIn: https://www.linkedin.com/in/thiago-lopes-eng-comp/
+- Instagram: https://www.instagram.com/thiago.nasmto/
+
+Orientacao de resposta:
+- Se perguntarem sobre disponibilidade, diga que o portfolio informa abertura para conversar sobre novos projetos e oportunidades.
+- Se perguntarem algo muito especifico que nao esteja aqui, seja transparente sobre a limitacao e sugira contato direto.

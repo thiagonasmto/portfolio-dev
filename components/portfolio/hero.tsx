@@ -65,8 +65,8 @@ export function Hero() {
               </a>
             </Button>
             <Button asChild variant="outline" size="lg" className="w-full sm:w-auto">
-              <a href="#projetos">
-                Ver projetos
+              <a href="#chat">
+                Conversar comigo
                 <ArrowDown className="ml-2 h-4 w-4" />
               </a>
             </Button>
