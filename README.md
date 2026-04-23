@@ -122,7 +122,3 @@ Para atualizar as respostas do assistente e as informações principais do site,
 - O projeto possui `package-lock.json` e `pnpm-lock.yaml`, então você pode usar `npm` ou `pnpm`.
 - O currículo público atual está em `public/CurriculoDev-Thiago-Lopes.pdf`.
 - A configuração do Next.js está em `next.config.mjs`.
-
-## Licença
-
-Uso pessoal e profissional de Thiago Lopes.
